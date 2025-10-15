@@ -3,6 +3,7 @@ from django.contrib import admin
 # Register your models here.
 from .models import Todo
 
+"Aayush Raj"
 
 @admin.register(Todo)
 class TodoAdmin(admin.ModelAdmin):
